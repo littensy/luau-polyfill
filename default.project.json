@@ -1,39 +1,6 @@
 {
-    "name": "luau-polyfill",
+    "name": "LuauPolyfill",
     "tree": {
-        "$className": "Folder",
-        "Boolean": {
-            "$path": "packages/boolean/default.project.json"
-        },
-        "Collections": {
-            "$path": "packages/collections/default.project.json"
-        },
-        "Console": {
-            "$path": "packages/console/default.project.json"
-        },
-        "ES7Types": {
-            "$path": "packages/es7-types/default.project.json"
-        },
-        "InstanceOf": {
-            "$path": "packages/instance-of/default.project.json"
-        },
-        "LuauPolyfill": {
-            "$path": "packages/luau-polyfill/default.project.json"
-        },
-        "Math": {
-            "$path": "packages/math/default.project.json"
-        },
-        "Number": {
-            "$path": "packages/number/default.project.json"
-        },
-        "String": {
-            "$path": "packages/string/default.project.json"
-        },
-        "Symbol": {
-            "$path": "packages/symbol/default.project.json"
-        },
-        "Timers": {
-            "$path": "packages/timers/default.project.json"
-        }
+        "$path": "packages"
     }
 }
